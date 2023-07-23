@@ -1,5 +1,5 @@
 <h1>Hi, I’m Danilo Quintas 👋</h1>
-I’m currently learning HTML/CSS ✔
+I’m currently learning HTML/CSS/Javascript/PHP/Python ✔
 
 
 <!---
